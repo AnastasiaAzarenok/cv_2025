@@ -51,6 +51,7 @@ __My Professional Skills:__
 * 1С
 * Basic level of Python
 * Basic level of SQL
+* Basic level of GitHub
 
 
 CV on GitHub
