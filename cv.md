@@ -10,8 +10,7 @@ __LLC 'HOMEPORTE'__
 
 Analyst
 
-* Preparation of business projects for PL, CF companies;
-
+* Preparation of business projects PL, CF;
 * Analysis of investment projects (NPV, IRR, PP, PI);
 * Analysis and monitoring of financial indicators;
 * Market analysis, cost calculation, and pricing;
@@ -49,6 +48,7 @@ __My Professional Skills:__
 * English level B1
 * MS Excel
 * SAP
+* 1С
 * Basic level of Python
 * Basic level of SQL
 
