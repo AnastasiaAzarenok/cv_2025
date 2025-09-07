@@ -5,7 +5,10 @@
 ### Experience:
 
 __From 2021 to 2025 year__
-__LLC "HOMEPORTE"__
+
+__LLC 'HOMEPORTE'__
+
+Analyst
 
 * Preparation of business projects for PL, CF companies;
 
@@ -15,6 +18,7 @@ __LLC "HOMEPORTE"__
 * Preparation of presentations and dashboards using Power BI, presenting performance results to the owner.
 
 __From 2015 to 2021 year__
+
 __Foreign LLC 'Mebelain'__
 
 Economist-Analyst
@@ -29,7 +33,8 @@ Economist-Analyst
 * Preparation of reports for the European Bank for Reconstruction and Development (EBRD) according to IFRS.
 
 __From 2009 to 2015 year__
-__Open Joint-Stock Company Mogilevoblresursy__
+
+__Open Joint-Stock Company 'Mogilevoblresursy'__
 
 Economist
 
