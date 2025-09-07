@@ -53,6 +53,10 @@ __My Professional Skills:__
 * Basic level of SQL
 
 
+CV on GitHub
+https://github.com/AnastasiaAzarenok/cv_2025.git
+
+
 
 
 
