@@ -54,7 +54,7 @@ __My Professional Skills:__
 
 
 CV on GitHub
-https://github.com/AnastasiaAzarenok/cv_2025.git
+https://anastasiaazarenok.github.io/cv_2025/cv
 
 
 
