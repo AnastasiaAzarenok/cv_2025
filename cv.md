@@ -10,7 +10,7 @@ __LLC 'HOMEPORTE'__
 
 Analyst
 
-* Preparation of reports with detailed analysis of supply assurance, demand planning, and logistics reasons;
+* Preparation of reports with detailed analysis of supply assurance, demand planning and logistics reasons;
 * Automation and optimization of reporting for departments;
 * Development of predictive models;
 * Preparation of presentations with commentary based on analytics.
