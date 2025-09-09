@@ -12,7 +12,7 @@ Analyst
 
 * Preparation of reports with detailed analysis of supply assurance, demand planning and logistics reasons;
 * Automation and optimization of reporting for departments;
-* Development of predictive models;
+* Building of predictive models;
 * Preparation of presentations with commentary based on analytics.
 
 __From 2015 to 2021 year__
@@ -21,7 +21,7 @@ __Foreign LLC 'Mebelain'__
 
 Economist-Analyst
 
-* Preparation of the enterprise business plan, PL, CF;
+* Created the enterprise business plan, PL, CF;
 * Planning and analysis of wage fund;
 * Analysis and monitoring of financial indicators;
 * Preparation of financial reports and presentations for management, providing cost reduction recommendations;
