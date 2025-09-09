@@ -10,11 +10,10 @@ __LLC 'HOMEPORTE'__
 
 Analyst
 
-* Preparation of business projects PL, CF;
-* Analysis of investment projects (NPV, IRR, PP, PI);
-* Analysis and monitoring of financial indicators;
-* Market analysis, cost calculation, and pricing;
-* Preparation of presentations and dashboards using Power BI, presenting performance results to the owner.
+* Preparation of reports with detailed analysis of supply assurance, demand planning, and logistics reasons;
+* Automation and optimization of reporting for departments;
+* Development of predictive models;
+* Preparation of presentations with commentary based on analytics.
 
 __From 2015 to 2021 year__
 
@@ -54,8 +53,7 @@ __My Professional Skills:__
 * Basic level of GitHub
 
 
-CV on GitHub
-https://anastasiaazarenok.github.io/cv_2025/cv
+
 
 
 
