@@ -1,6 +1,6 @@
 # Azaronok Anastasiya
 
-## Analyst
+## Business Analyst
 
 ### Experience:
 
@@ -8,11 +8,11 @@ __From 2021 to 2025 year__
 
 __LLC 'HOMEPORTE'__
 
-Analyst
+Business Analyst
 
 * Preparation of reports with detailed analysis of supply assurance, demand planning and logistics reasons;
-* Automation and optimization of reporting for departments;
-* Building of predictive models;
+* Automation and optimization of reporting for departments (VLOOKUP, GETPIVOTDATA, PIVOT TABLE);
+* Building of predictive models (P&L, CF);
 * Preparation of presentations with commentary based on analytics.
 
 __From 2015 to 2021 year__
