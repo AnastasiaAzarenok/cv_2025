@@ -4,6 +4,18 @@
 
 ### Experience:
 
+__Internship from may 2025 to september 2025__
+
+__Business Analyst__
+
+* Business direction analysis, business model development (SQL queries, Excel, Power BI);
+* Writing marketing strategy;
+* Preparing technical specifications;
+* Working in CRM Bitrix24, generating reports;
+* Task allocation to the team, workload planning (calendar management, Kanban setup);
+* Studying Agile and Waterfall methodologies;
+* Using AI tools to automate routine tasks (GPT-5 PRO).
+
 __From 2021 to 2025 year__
 
 __LLC 'HOMEPORTE'__
