@@ -6,7 +6,7 @@
 
 __ from september 2024 to october 2025__
 
-KrokTT
+KrokIT
 
 __Business Analyst__
 
