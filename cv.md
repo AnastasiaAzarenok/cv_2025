@@ -4,19 +4,24 @@
 
 ### Experience:
 
-__Internship from may 2025 to september 2025__
+__ from september 2024 to october 2025__
+
+KrokTT
 
 __Business Analyst__
 
-* Business direction analysis, business model development (SQL queries, Excel, Power BI);
+* Business direction analysis, business model development (Pivot tables,VLOOKUP, Complex Excel formulas, Power BI);
 * Writing marketing strategy;
 * Preparing technical specifications;
-* Working in CRM Bitrix24, generating reports;
-* Task allocation to the team, workload planning (calendar management, Kanban setup);
-* Studying Agile and Waterfall methodologies;
-* Using AI tools to automate routine tasks (GPT-5 PRO).
+* Website mockup preparation (Figma, Canva);
+* Task allocation to the team, workload planning (calendar filling), Waterfall / Agile methodologies;
+* Basic understanding of Python, JS, HTML, CSS;
+* Experience with Github, Markdown formatting;
+* Launching and optimizing advertising campaigns in Yandex Direct, Google Ads;
+* Communication with business representatives at all stages of the project lifecycle.
 
-__From 2021 to 2025 year__
+
+__From 2021 to 2024 year__
 
 __LLC 'HOMEPORTE'__
 
