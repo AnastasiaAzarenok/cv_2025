@@ -14,6 +14,7 @@ __Business Analyst__
 * Writing marketing strategy;
 * Preparing technical specifications;
 * Website mockup preparation (Figma, Canva);
+* BPMN Visual Modeling;
 * Task allocation to the team, workload planning (calendar filling), Waterfall / Agile methodologies;
 * Basic understanding of Python, JS, HTML, CSS;
 * Experience with Github, Markdown formatting;
