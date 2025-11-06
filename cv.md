@@ -10,16 +10,15 @@ KrokIT
 
 __Business Analyst__
 
-* Business direction analysis, business model development (Pivot tables,VLOOKUP, Complex Excel formulas, Power BI);
-* Writing marketing strategy;
-* Preparing technical specifications;
-* Website mockup preparation (Figma, Canva);
-* BPMN Visual Modeling;
-* Task allocation to the team, workload planning (calendar filling), Waterfall / Agile methodologies;
-* Basic understanding of Python, JS, HTML, CSS;
-* Experience with Github, Markdown formatting;
-* Launching and optimizing advertising campaigns in Yandex Direct, Google Ads;
-* Communication with business representatives at all stages of the project lifecycle.
+* Conducted business line analysis and collected data to build business models; prepared summary reports and dashboards (tools: Excel — VLOOKUP, GETPIVOTDATA, PivotTable; Google Sheets; Power BI);
+* Systematically gathered and documented requirements, prepared technical specifications for development, and aligned them with stakeholders;
+* Visualized As-Is/To-Be processes in BPMN and described roles and interaction scenarios;
+* Prepared interface mockups to speed up alignment between business and engineering (Figma, Canva);
+* Coordinated the team’s work: assigned tasks and planned workload and calendar (Jira, Confluence; methodologies: Waterfall/Agile);
+* Analyzed and optimized advertising campaigns; worked with hypotheses, segments, and creatives (Yandex Direct, Google Ads);
+* Negotiated with business stakeholders: conducted interviews, clarified requirements, delivered demos, and collected feedback;
+* Basic understanding of Python, JS, HTML, and CSS;
+* Experience working with GitHub; documentation formatted in Markdown.
 
 
 __From 2021 to 2024 year__
