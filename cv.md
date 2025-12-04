@@ -10,15 +10,14 @@ KrokIT
 
 __Business Analyst__
 
-* Conducted business line analysis and collected data to build business models; prepared summary reports and dashboards (tools: Excel — VLOOKUP, GETPIVOTDATA, PivotTable; Google Sheets; Power BI);
-* Systematically gathered and documented requirements, prepared technical specifications for development, and aligned them with stakeholders;
-* Visualized As-Is/To-Be processes in BPMN and described roles and interaction scenarios;
-* Prepared interface mockups to speed up alignment between business and engineering (Figma, Canva);
-* Coordinated the team’s work: assigned tasks and planned workload and calendar (Jira, Confluence; methodologies: Waterfall/Agile);
-* Analyzed and optimized advertising campaigns; worked with hypotheses, segments, and creatives (Yandex Direct, Google Ads);
-* Negotiated with business stakeholders: conducted interviews, clarified requirements, delivered demos, and collected feedback;
-* Basic understanding of Python, JS, HTML, and CSS;
-* Experience working with GitHub; documentation formatted in Markdown.
+* Systematically gathered and documented requirements, created technical specifications for development, and coordinated them with stakeholders;
+* Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro);
+* Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be);
+* Prepared interface mockups to accelerate approvals between business and development (Figma, Canva);
+* Coordinated the team's work: assigned tasks, planned workload and schedule (Jira, Confluence; methodologies: Waterfall/Agile);
+* Negotiated with business representatives: conducted interviews, clarified requirements, held demonstrations, and gathered feedback;
+* Basic understanding of Python, JS, HTML, CSS, PostgreSQL;
+* Experience interacting with GitHub.
 
 
 __From 2021 to 2024 year__
