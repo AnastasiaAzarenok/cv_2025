@@ -1,2 +1,2 @@
 CV on GitHub 2025
-https://anastasiaazarenok.github.io/cv_2025/cv
+https://anastasiaazarenok.github.io/Curriculum_Vitae/
