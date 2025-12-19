@@ -28,14 +28,16 @@
 - Negotiated with business representatives: conducted interviews, clarified requirements, held demonstrations, and gathered feedback
 
 ### Business Analyst — LLC “HOMEPORTE”
-**2021 – 2024**
+**February 2021 – September 2024**
 - Prepared reports with detailed analysis of supply assurance, demand planning, and logistics risks
 - Automated and optimized reporting for departments (VLOOKUP, GETPIVOTDATA, Pivot Tables)
 - Built predictive models (P&L, CF)
 - Prepared presentations with commentary based on analytics
+- Cross-functional data consolidation: streamlining data flow from different departments to provide a holistic view of the company
+- Data collection and identification of areas of inefficiency
 
 ### Economist-Analyst — Foreign LLC “Mebelain”
-**2015 – 2021**
+**September 2015 – February 2021**
 - Developed the company business plan; prepared P&L and CF reports
 - Planned and analyzed payroll costs
 - Analyzed and monitored financial indicators
@@ -46,7 +48,7 @@
 - Prepared reports for the European Bank for Reconstruction and Development (EBRD) in accordance with IFRS
 
 ### Economist — OJSC “Mogilevoblresursy”
-**2009 – 2015**
+**August 2009 – August 2015**
 - Prepared business plans, P&L reports, and cash flow statements
 - Planned and analyzed payroll costs
 - Analyzed financial indicators
