@@ -4,6 +4,7 @@
 
 # Azaronok Anastasiya
 
+**Location:** Mogilev, Belarus (Open to Remote / Relocation)  
 **Phone:** +375 29 6310853  
 **Telegram:** @Anastasiaazaronok  
 **E-mail:** azaronokanastasia@gmail.com  
@@ -20,7 +21,7 @@
 
 ### Business Analyst — KrokIT Startup Accelerator
 **September 2024 – October 2025**
-- Systematically gathered and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders
+- Systematically gathered and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro)
 - Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be)
 - Prepared interface mockups to accelerate approvals between business and development (Figma, Canva)
