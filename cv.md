@@ -25,7 +25,9 @@
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro)
 - Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be)
 - Prepared interface mockups to accelerate approvals between business and development (Figma, Canva)
-- Coordinated workflows: structured tasks, managed workload and scheduling (Waterfall/Agile)
+- Developed the project budget and participated in its management
+- Managed project risks, timelines, quality, and changes
+- Coordinated workflows: structured tasks, managed workload and scheduling (Agile, Kanban, Scrum)
 - Negotiated with business representatives: conducted interviews, clarified requirements, held demonstrations, and gathered feedback
 
 ### Business Analyst — LLC “HOMEPORTE”
